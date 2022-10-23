@@ -7,7 +7,7 @@ from _helpers import PointHandler
 from _helpers import color
 from _helpers import euclidean_norm
 
-TRIANGLE_POINTS = {"x": (0, sqrt(3) / 2, sqrt(3) / 2, 0), "y": (1, -1 / 2, -1 / 2, 1)}
+TRIANGLE_POINTS = {"x": (0, sqrt(3) / 2, -sqrt(3) / 2, 0), "y": (1, -1 / 2, -1 / 2, 1)}
 
 
 def main():
