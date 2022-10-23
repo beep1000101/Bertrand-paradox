@@ -1,3 +1,3 @@
 # Bertrand-paradox
 
-![static Bertrand-paradox](bertrand.mp4)
+![](bertrand.mp4)
