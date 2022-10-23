@@ -17,7 +17,7 @@ def main():
     plt.xlim(-1.2, 1.2)
     plt.ylim(-1.2, 1.2)
 
-    def animate(_: int):
+    def animate(_):
         point_1 = PointHandler.get_point()
         point_2 = PointHandler.get_point()
         current_norm = euclidean_norm(point_1, point_2)
